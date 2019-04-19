@@ -1,0 +1,82 @@
+% !TEX root = main.tex
+
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{booktabs}
+\usepackage{units}
+\usepackage{blkarray}
+\usepackage{cprotect}
+\usepackage{enumitem}
+\usepackage{grffile}
+\usepackage{newfile}
+\usepackage{multirow}
+\usepackage{microtype}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{afterpage}
+
+\setlist[itemize]{noitemsep,nolistsep,leftmargin=*}
+
+% \newcommand{\citeme}[0]{{\bfseries \scriptsize  \color{blue}\framebox{CITE}}}
+% \newcommand{\addreference}[0]{{\bfseries \scriptsize  \color{blue}\framebox{REF}}}
+
+\newcommand{\eqdef}{:=}
+
+\newcommand{\R}[0]{\mathbb{R}}
+\newcommand{\Z}[0]{\mathbb{Z}}
+\newcommand{\N}[0]{\mathbb{N}}
+\newcommand{\Q}[0]{\mathbb{Q}}
+\newcommand{\C}[0]{\mathbb{C}}
+\newcommand{\Fro}[0]{{\mathrm{Fro}}}
+\renewcommand{\P}[0]{\mathcal{P}}
+\newcommand{\M}[0]{\mathcal{M}}
+\newcommand{\LL}[0]{\mathcal{L}}
+
+\makeatletter
+\newcommand{\vast}{\bBigg@{4}}
+\newcommand{\Vast}{\bBigg@{5}}
+\makeatother
+
+\makeatletter
+\def\thm@space@setup{\thm@preskip=4pt
+\thm@postskip=4pt}
+\makeatother
+
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator{\Tr}{Tr}
+\DeclareMathOperator{\dd}{d}
+\DeclareMathOperator{\Ch}{Ch}
+\DeclareMathOperator{\CH}{CH}
+
+%% table stuff
+\newcolumntype{F}{>{\centering\arraybackslash}m{\dimexpr.2\linewidth-2\tabcolsep}}
+\newcolumntype{Q}{>{\centering\arraybackslash}m{\dimexpr.25\linewidth-2\tabcolsep}}
+\newcolumntype{H}{>{\centering\arraybackslash}m{\dimexpr.5\linewidth-2\tabcolsep}}
+
+\newtheorem{prop}{Proposition}
+
+% d for the integral
+\newcommand{\dint}{\mathrm{d}}
+% partial derivative 
+\newcommand{\dr}{\partial}
+% v bold 
+\newcommand{\vbf}{\mathbf{v}}
+% m bold
+\newcommand{\mbf}{\mathbf{m}}
+% B bold
+\newcommand{\Bbf}{\mathbf{B}}
+% T for the adjoint
+\newcommand{\adj}{\mathrm{T}}
+% Identity 
+\newcommand{\Id}{\mathrm{Id}}
+
+% for the review process
+%\newcommand{\review}[1]{{\color{red}  #1}}
+\newcommand{\review}[1]{#1}
+
+\newcommand{\justin}[1]{{\small\color{red}  \bf{JS:  #1}}}
+\newcommand{\matt}[1]{{\small\color{orange}  \bf{MF:  #1}}}
+\newcommand{\dima}[1]{{\small\color{blue}  \bf{DS:  #1}}}
+\newcommand{\richard}[1]{{\small\color{magenta}  \bf{RZ:  #1}}}
