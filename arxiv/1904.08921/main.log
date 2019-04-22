@@ -1,0 +1,990 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.19)  19 APR 2019 23:12
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (iccv.sty (eso-pic.sty
+Package: eso-pic 2002/11/16 v1.1b eso-pic (RN)
+ (iccv_eso.sty
+
+LaTeX Warning: You have requested package `eso-pic',
+               but the package provides `everyshi'.
+
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty
+"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+ICCV 8.5 x 11-Inch Proceedings Style `iccv.sty'.
+\@ctmp=\skip43
+\@figindent=\skip44
+\iccvrulerbox=\box27
+\iccvrulercount=\count88
+\iccvruleroffset=\dimen103
+\cv@lineheight=\dimen104
+\cv@boxheight=\dimen105
+\cv@tmpbox=\box28
+\cv@refno=\count89
+\cv@tot=\count90
+\cv@tmpc@=\count91
+\cv@tmpc=\count92
+\iccvtmppos=\dimen106
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\times.sty
+"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\epsfig.
+sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen107
+\Gin@req@width=\dimen108
+)
+\epsfxsize=\dimen109
+\epsfysize=\dimen110
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen111
+))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks16
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks17
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks18
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
+.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+s.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/preprint\authblk
+.sty"
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip48
+\@affilsep=\skip49
+\c@Maxaffil=\count105
+\c@authors=\count106
+\c@affil=\count107
+) (mystyle.sty
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen120
+\ar@mcellbox=\box31
+\extrarowheight=\dimen121
+\NC@list=\toks20
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box32
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktab
+s.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen122
+\lightrulewidth=\dimen123
+\cmidrulewidth=\dimen124
+\belowrulesep=\dimen125
+\belowbottomsep=\dimen126
+\aboverulesep=\dimen127
+\abovetopsep=\dimen128
+\cmidrulesep=\dimen129
+\cmidrulekern=\dimen130
+\defaultaddspace=\dimen131
+\@cmidla=\count108
+\@cmidlb=\count109
+\@aboverulesep=\dimen132
+\@belowrulesep=\dimen133
+\@thisruleclass=\count110
+\@lastruleclass=\count111
+\@thisrulewidth=\dimen134
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\units.sty"
+Package: units 1998/08/04 v0.9b Typesetting units
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.s
+ty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip52
+\L@UnitsRaiseTextstyle=\skip53
+\L@UnitsRaiseScriptstyle=\skip54
+))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blkarray\blkarra
+y.sty"
+Package: blkarray 2015/02/27 v0.07 Block array (dpc)
+\c@BAenumi=\count112
+\BA@col=\count113
+\BA@block@cnt=\count114
+\BA@final@box=\box33
+\BA@first@box=\box34
+\BA@colsep=\dimen135
+\BA@ftn=\toks21
+\BAextrarowheight=\dimen136
+\BAextraheightafterhline=\dimen137
+\BAarrayrulewidth=\dimen138
+\BAdoublerulesep=\dimen139
+\BAfootskip=\dimen140
+\BA@dashbox=\box35
+\BA@ddashbox=\box36
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cprotect\cprotec
+t.sty"
+Package: cprotect 2011/01/27 v1.0e (Bruno Le Floch)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bigfoot\suffix.s
+ty"
+Package: suffix 2006/07/15 1.5a Variant command support
+)
+\CPT@WriteOut=\write3
+\c@CPT@WriteCount=\count115
+\c@CPT@numB=\count116
+\CPT@commandatend@toks=\toks22
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumite
+m.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen141
+\enit@toks=\toks23
+\enit@inbox=\box37
+\enit@count@id=\count117
+\enitdp@description=\count118
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grffile
+.sty"
+Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf
+.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grffile Info: Option `multidot' is set to `true'.
+Package grffile Info: Option `extendedchars' is set to `false'.
+Package grffile Info: Option `space' is set to `true'.
+Package grffile Info: \Gin@ii of package `graphicx' fixed on input line 494.
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/newfile\newfile.
+sty"
+Package: newfile 2009/09/03 v1.0c Output and input files
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.s
+ty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+)
+\c@streamvline=\count119
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count120
+\multirow@dima=\skip57
+\bigstrutjot=\dimen142
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+ype.sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count121
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen143
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count122
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+ype-pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip58
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microt
+ype.cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
+))
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
+sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
+.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen144
+\captionmargin@=\dimen145
+\captionwidth=\dimen146
+\caption@tempdima=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \setbox \@tempboxa \hb
+ox {\small \noindent #1.~#2} \setlength {\@ctmp }{\hsize } \addtolength {\@ctmp
+ }{-\@figindent }\addtolength {\@ctmp }{-\@figindent } \ifdim \wd \@tempboxa >\
+@ctmp {\small #1.~#2\par } \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } 
+\fi .
+\c@caption@flags=\count123
+\c@ContinuedFloat=\count124
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcapti
+on.sty"
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
+\c@subfigure=\count125
+\c@subtable=\count126
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterpage.
+sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks27
+\AP@partial=\box38
+\AP@footins=\box39
+)
+\c@prop=\count127
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperre
+f.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
+b-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsu
+b-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \AP@enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook
+.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count128
+\Hy@pagecounter=\count129
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.
+def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count130
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperre
+f.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4393.
+
+
+Package hyperref Warning: Option `letterpaper' is no longer used.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing ON on input line 4537.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4778.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\backref
+.sty"
+Package: backref 2016/05/21 v1.39 Bibliographical back referencing
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfi
+lecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+\c@Hy@tempcnt=\count131
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen152
+\Fld@menulength=\count132
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing ON on input line 6393.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count133
+\c@Item=\count134
+\c@Hfootnote=\count135
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex
+.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count136
+\c@bookmark@seq@number=\count137
+\Hy@SectionHShift=\skip59
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 26.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd
+"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) ABD: EveryShipout initializing macros
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen155
+\scratchbox=\box40
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen156
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks29
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Info: Redefining \microtypecontext on input line 26.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-ptm
+.cfg"
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box41
+Package atbegshi Info: Package `everyshi' patched.
+Package hyperref Info: Link coloring ON on input line 26.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref
+.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\getti
+tlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count144
+)
+LaTeX Info: Redefining \ref on input line 26.
+LaTeX Info: Redefining \pageref on input line 26.
+LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr
+.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa
+.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb
+.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+ (body.tex [1{C:/Users/Xiaoyan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.ma
+p}
+
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 19.
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd
+"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
+<figures/chamfer2.pdf, id=56, 234.24614pt x 84.03465pt>
+File: figures/chamfer2.pdf Graphic file (type pdf)
+<use figures/chamfer2.pdf>
+Package pdftex.def Info: figures/chamfer2.pdf  used on input line 63.
+(pdftex.def)             Requested size: 142.283pt x 51.04562pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./figures/chamfer1.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<figures/chamfer1.pdf, id=57, 118.76872pt x 52.10155pt>
+File: figures/chamfer1.pdf Graphic file (type pdf)
+<use figures/chamfer1.pdf>
+Package pdftex.def Info: figures/chamfer1.pdf  used on input line 69.
+(pdftex.def)             Requested size: 82.99902pt x 36.4104pt.
+[2]
+<figures/architecture.pdf, id=109, 796.12532pt x 290.76028pt>
+File: figures/architecture.pdf Graphic file (type pdf)
+<use figures/architecture.pdf>
+Package pdftex.def Info: figures/architecture.pdf  used on input line 143.
+(pdftex.def)             Requested size: 237.13594pt x 86.60762pt.
+ [3 <./figures/chamfer2.pdf> <./figures/chamfer1.pdf> <./figures/architecture.p
+df>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 160.
+
+
+("C:\Users\Xiaoyan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd
+"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `pcr' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<figures/abc_plain.pdf, id=206, 557.08125pt x 260.975pt>
+File: figures/abc_plain.pdf Graphic file (type pdf)
+<use figures/abc_plain.pdf>
+Package pdftex.def Info: figures/abc_plain.pdf  used on input line 179.
+(pdftex.def)             Requested size: 223.58379pt x 104.73857pt.
+<figures/abc_decorative.pdf, id=207, 557.08125pt x 260.975pt>
+File: figures/abc_decorative.pdf Graphic file (type pdf)
+<use figures/abc_decorative.pdf>
+Package pdftex.def Info: figures/abc_decorative.pdf  used on input line 185.
+(pdftex.def)             Requested size: 223.58379pt x 104.73857pt.
+<figures/abc_stroke.png, id=210, 617.30624pt x 69.25874pt>
+File: figures/abc_stroke.png Graphic file (type png)
+<use figures/abc_stroke.png>
+Package pdftex.def Info: figures/abc_stroke.png  used on input line 225.
+(pdftex.def)             Requested size: 237.13594pt x 26.60498pt.
+ [4]
+<figures/abc_templates.pdf, id=237, 1670.24pt x 256.96pt>
+File: figures/abc_templates.pdf Graphic file (type pdf)
+<use figures/abc_templates.pdf>
+Package pdftex.def Info: figures/abc_templates.pdf  used on input line 239.
+(pdftex.def)             Requested size: 111.45418pt x 17.14604pt.
+<figures/simple_templates.pdf, id=238, 385.44pt x 128.48pt>
+File: figures/simple_templates.pdf Graphic file (type pdf)
+<use figures/simple_templates.pdf>
+Package pdftex.def Info: figures/simple_templates.pdf  used on input line 245.
+(pdftex.def)             Requested size: 55.72708pt x 18.5752pt.
+<figures/abc_nn2.pdf, id=246, 1027.84pt x 128.48pt>
+File: figures/abc_nn2.pdf Graphic file (type pdf)
+<use figures/abc_nn2.pdf>
+Package pdftex.def Info: figures/abc_nn2.pdf  used on input line 278.
+(pdftex.def)             Requested size: 237.13594pt x 29.6419pt.
+<figures/abc_nn5.pdf, id=247, 1027.84pt x 128.48pt>
+File: figures/abc_nn5.pdf Graphic file (type pdf)
+<use figures/abc_nn5.pdf>
+Package pdftex.def Info: figures/abc_nn5.pdf  used on input line 279.
+(pdftex.def)             Requested size: 237.13594pt x 29.6419pt.
+ [5 <./figures/abc_plain.pdf> <./figures/abc_decorative.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_decorative.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+> <./figures/abc_stroke.png> <./figures/abc_templates.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_templates.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+> <./figures/simple_templates.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/simple_templates.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+> <./figures/abc_nn2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_nn2.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./figures/abc_nn5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_nn5.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+<figures/abc_interpolation3.pdf, id=310, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation3.pdf Graphic file (type pdf)
+<use figures/abc_interpolation3.pdf>
+Package pdftex.def Info: figures/abc_interpolation3.pdf  used on input line 294
+.
+(pdftex.def)             Requested size: 237.13594pt x 29.6419pt.
+<figures/abc_interpolation4.pdf, id=311, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation4.pdf Graphic file (type pdf)
+<use figures/abc_interpolation4.pdf>
+Package pdftex.def Info: figures/abc_interpolation4.pdf  used on input line 295
+.
+(pdftex.def)             Requested size: 237.13594pt x 29.6419pt.
+<figures/abc_loss.pdf, id=312, 374.39874pt x 257.96375pt>
+File: figures/abc_loss.pdf Graphic file (type pdf)
+<use figures/abc_loss.pdf>
+Package pdftex.def Info: figures/abc_loss.pdf  used on input line 302.
+(pdftex.def)             Requested size: 165.99443pt x 114.37035pt.
+<figures/abc_exploration1.pdf, id=314, 513.92pt x 256.96pt>
+File: figures/abc_exploration1.pdf Graphic file (type pdf)
+<use figures/abc_exploration1.pdf>
+Package pdftex.def Info: figures/abc_exploration1.pdf  used on input line 312.
+(pdftex.def)             Requested size: 142.283pt x 71.1406pt.
+<figures/abc_analogies.pdf, id=316, 576.15048pt x 574.40898pt>
+File: figures/abc_analogies.pdf Graphic file (type pdf)
+<use figures/abc_analogies.pdf>
+Package pdftex.def Info: figures/abc_analogies.pdf  used on input line 324.
+(pdftex.def)             Requested size: 165.99443pt x 165.4875pt.
+<figures/abc_gan1.pdf, id=319, 1068.99374pt x 563.58755pt>
+File: figures/abc_gan1.pdf Graphic file (type pdf)
+<use figures/abc_gan1.pdf>
+Package pdftex.def Info: figures/abc_gan1.pdf  used on input line 338.
+(pdftex.def)             Requested size: 237.13594pt x 125.02159pt.
+ [6 <./figures/abc_interpolation3.pdf> <./figures/abc_interpolation4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_interpolation4.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures/abc_loss.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_loss.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./figures/abc_exploration1.pdf> <./figures/abc_analogies.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_analogies.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
+<figures/abc_ablation.pdf, id=405, 899.36pt x 792.9625pt>
+File: figures/abc_ablation.pdf Graphic file (type pdf)
+<use figures/abc_ablation.pdf>
+Package pdftex.def Info: figures/abc_ablation.pdf  used on input line 371.
+(pdftex.def)             Requested size: 237.13594pt x 209.08139pt.
+ [7 <./figures/abc_gan1.pdf> <./figures/abc_ablation.pdf>]
+<figures/cub_chairs.png, id=478, 626.34pt x 200.75pt>
+File: figures/cub_chairs.png Graphic file (type png)
+<use figures/cub_chairs.png>
+Package pdftex.def Info: figures/cub_chairs.png  used on input line 410.
+(pdftex.def)             Requested size: 189.70947pt x 60.8044pt.
+<figures/cub_planes.png, id=479, 626.34pt x 200.75pt>
+File: figures/cub_planes.png Graphic file (type png)
+<use figures/cub_planes.png>
+Package pdftex.def Info: figures/cub_planes.png  used on input line 414.
+(pdftex.def)             Requested size: 189.70947pt x 60.8044pt.
+<figures/cub_seg.png, id=480, 626.34pt x 200.75pt>
+File: figures/cub_seg.png Graphic file (type png)
+<use figures/cub_seg.png>
+Package pdftex.def Info: figures/cub_seg.png  used on input line 418.
+(pdftex.def)             Requested size: 189.70947pt x 60.8044pt.
+<figures/csg.png, id=485, 317.68687pt x 80.3pt>
+File: figures/csg.png Graphic file (type png)
+<use figures/csg.png>
+Package pdftex.def Info: figures/csg.png  used on input line 438.
+(pdftex.def)             Requested size: 237.13594pt x 59.94179pt.
+) (main.bbl
+(main.brf)
+\tf@brf=\write4
+\openout4 = `main.brf'.
+
+
+Underfull \vbox (badness 6944) has occurred while \output is active []
+
+ [8 <./figures/cub_chairs.png> <./figures/cub_planes.png> <./figures/cub_seg.pn
+g> <./figures/csg.png>] [9]) [10
+
+] (supp.tex
+<figures/abc_nn1.pdf, id=562, 1027.84pt x 128.48pt>
+File: figures/abc_nn1.pdf Graphic file (type pdf)
+<use figures/abc_nn1.pdf>
+Package pdftex.def Info: figures/abc_nn1.pdf  used on input line 3.
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_nn3.pdf, id=563, 1027.84pt x 128.48pt>
+File: figures/abc_nn3.pdf Graphic file (type pdf)
+<use figures/abc_nn3.pdf>
+Package pdftex.def Info: figures/abc_nn3.pdf  used on input line 4.
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_nn4.pdf, id=564, 1027.84pt x 128.48pt>
+File: figures/abc_nn4.pdf Graphic file (type pdf)
+<use figures/abc_nn4.pdf>
+Package pdftex.def Info: figures/abc_nn4.pdf  used on input line 5.
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_nn6.pdf, id=565, 1027.84pt x 128.48pt>
+File: figures/abc_nn6.pdf Graphic file (type pdf)
+<use figures/abc_nn6.pdf>
+Package pdftex.def Info: figures/abc_nn6.pdf  used on input line 6.
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_interpolation1.pdf, id=566, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation1.pdf Graphic file (type pdf)
+<use figures/abc_interpolation1.pdf>
+Package pdftex.def Info: figures/abc_interpolation1.pdf  used on input line 14.
+
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_interpolation2.pdf, id=567, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation2.pdf Graphic file (type pdf)
+<use figures/abc_interpolation2.pdf>
+Package pdftex.def Info: figures/abc_interpolation2.pdf  used on input line 15.
+
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_interpolation5.pdf, id=568, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation5.pdf Graphic file (type pdf)
+<use figures/abc_interpolation5.pdf>
+Package pdftex.def Info: figures/abc_interpolation5.pdf  used on input line 16.
+
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/abc_interpolation6.pdf, id=569, 1027.84pt x 128.48pt>
+File: figures/abc_interpolation6.pdf Graphic file (type pdf)
+<use figures/abc_interpolation6.pdf>
+Package pdftex.def Info: figures/abc_interpolation6.pdf  used on input line 17.
+
+(pdftex.def)             Requested size: 397.48651pt x 49.68549pt.
+<figures/sup_ablation.pdf, id=570, 899.36pt x 796.13432pt>
+File: figures/sup_ablation.pdf Graphic file (type pdf)
+<use figures/sup_ablation.pdf>
+Package pdftex.def Info: figures/sup_ablation.pdf  used on input line 24.
+(pdftex.def)             Requested size: 496.85625pt x 439.83107pt.
+<figures/loss_convergence.png, id=571, 397.485pt x 268.00125pt>
+File: figures/loss_convergence.png Graphic file (type png)
+<use figures/loss_convergence.png>
+Package pdftex.def Info: figures/loss_convergence.png  used on input line 31.
+(pdftex.def)             Requested size: 198.73946pt x 134.00029pt.
+<figures/sup_chairs.png, id=573, 520.344pt x 650.43pt>
+File: figures/sup_chairs.png Graphic file (type png)
+<use figures/sup_chairs.png>
+Package pdftex.def Info: figures/sup_chairs.png  used on input line 39.
+(pdftex.def)             Requested size: 496.85625pt x 621.10077pt.
+
+
+LaTeX Warning: Float too large for page by 13.70453pt on input line 42.
+
+<figures/sup_airplanes.png, id=574, 520.344pt x 650.43pt>
+File: figures/sup_airplanes.png Graphic file (type png)
+<use figures/sup_airplanes.png>
+Package pdftex.def Info: figures/sup_airplanes.png  used on input line 46.
+(pdftex.def)             Requested size: 496.85625pt x 621.10077pt.
+
+LaTeX Warning: Float too large for page by 13.70453pt on input line 49.
+
+<figures/sup_seg.png, id=575, 520.344pt x 650.43pt>
+File: figures/sup_seg.png Graphic file (type png)
+<use figures/sup_seg.png>
+Package pdftex.def Info: figures/sup_seg.png  used on input line 53.
+(pdftex.def)             Requested size: 397.48651pt x 496.8826pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
+ [11 <./figures/abc_nn1.pdf> <./figures/abc_nn3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_nn3.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./figures/abc_nn4.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_nn4.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./figures/abc_nn6.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_nn6.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./figures/abc_interpolation1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_interpolation1.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures/abc_interpolation2.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_interpolation2.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures/abc_interpolation5.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_interpolation5.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+> <./figures/abc_interpolation6.pdf
+
+pdfTeX warning: pdflatex.exe (file ./figures/abc_interpolation6.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>] [12 <./figures/sup_ablation.pdf> <./figures/loss_convergence.png>] [13 <./fi
+gures/sup_chairs.png (PNG copy)>] [14 <./figures/sup_airplanes.png (PNG copy)>]
+[15 <./figures/sup_seg.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
+
+
+Package rerunfilecheck Warning: File `main.brf' has changed.
+(rerunfilecheck)                Rerun to get bibliographical references right.
+
+Package rerunfilecheck Info: Checksums for `main.brf':
+(rerunfilecheck)             Before: 03AC46445D6B1688AB5050D22DF13A1D;2314
+(rerunfilecheck)             After:  AD03F9F2F26CE0E6B0E17B99B6EF4E70;2314.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
+ ) 
+Here is how much of TeX's memory you used:
+ 11066 strings out of 492945
+ 176317 string characters out of 3125364
+ 302698 words of memory out of 3000000
+ 14322 multiletter control sequences out of 15000+200000
+ 46685 words of font info for 267 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,16n,45p,991b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
+nc}<C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Xiaoyan/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Xiaoyan/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
+Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr7.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr8.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Xiaoyan/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/User
+s/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
+<C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8
+a.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
+/utmr8a.pfb><C:/Users/Xiaoyan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on main.pdf (15 pages, 7367621 bytes).
+PDF statistics:
+ 786 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 500000)
+ 28843 words of extra memory for PDF output out of 29859 (max. 10000000)
+

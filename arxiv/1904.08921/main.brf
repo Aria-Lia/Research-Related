@@ -1,0 +1,39 @@
+\backcite {krizhevsky2012imagenet}{{1}{1}{section.1}}
+\backcite {long2015fully}{{1}{1}{section.1}}
+\backcite {isola2017image}{{1}{1}{section.1}}
+\backcite {tulsiani2017learning}{{1}{1}{section.1}}
+\backcite {shapenet2015}{{1}{1}{section.1}}
+\backcite {o2014exploratory}{{2}{2}{section*.1}}
+\backcite {campbell2014learning,Balashova18}{{2}{2}{section*.1}}
+\backcite {suveeranont2010example,phan2015flexyfont}{{2}{2}{section*.1}}
+\backcite {azadi2018multi,upchurch2016z}{{2}{2}{section*.1}}
+\backcite {kim2013learning,shen2012structure,ovsjanikov2011exploration}{{2}{2}{section*.2}}
+\backcite {schulz2017retrieval,umetani2012guided}{{2}{2}{section*.2}}
+\backcite {fuentes2015visual,seitz2006comparison,su2015multi}{{2}{2}{section*.3}}
+\backcite {fan2017point,choy20163d}{{2}{2}{section*.3}}
+\backcite {dai2017shape,stutz2018learning}{{2}{2}{section*.3}}
+\backcite {park2019deepsdf}{{2}{2}{section*.3}}
+\backcite {liao2018deep}{{2}{2}{section*.3}}
+\backcite {li2018supervised, niu2018im2struct}{{2}{2}{section*.3}}
+\backcite {ganapathi2018parsing}{{2}{2}{section*.3}}
+\backcite {tulsiani2017learning}{{2}{2}{section*.3}}
+\backcite {groueix2018atlasnet}{{2}{2}{section*.3}}
+\backcite {borgefors1984distance}{{2}{3}{equation.3.2}}
+\backcite {tulsiani2017learning, fan2017point, liu2004hand, groueix2018atlasnet}{{2}{3}{equation.3.2}}
+\backcite {he2016identity,he2016deep}{{4}{4.6}{subsection.4.6}}
+\backcite {yu2015multi, chen2018deeplab}{{4}{4.6}{subsection.4.6}}
+\backcite {clevert2015fast}{{4}{4.6}{subsection.4.6}}
+\backcite {ba2016layer}{{4}{4.6}{subsection.4.6}}
+\backcite {kingma2014adam}{{4}{4.6}{subsection.4.6}}
+\backcite {qin2006real}{{4}{5.1.1}{equation.5.11}}
+\backcite {zhu2017toward}{{4}{5.1.2}{subsubsection.5.1.2}}
+\backcite {azadi2018multi}{{6}{5.2.4}{subsubsection.5.2.4}}
+\backcite {azadi2018multi}{{7}{11}{figure.caption.14}}
+\backcite {shapenet2015}{{8}{6.2}{subsection.6.2}}
+\backcite {dai2017shape}{{8}{6.2}{subsection.6.2}}
+\backcite {tulsiani2017learning}{{8}{6.2}{section*.17}}
+\backcite {tulsiani2017learning}{{8}{6.2}{section*.19}}
+\backcite {tulsiani2017learning}{{8}{6.2}{section*.19}}
+\backcite {bessmeltsev2019vectorization}{{8}{7}{section.7}}
+\backcite {blinn1982generalization}{{8}{7}{section.7}}
+\backcite {du2018inversecsg}{{8}{7}{section.7}}
